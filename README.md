@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Saidmahmud Boboev 👋</h1>
+<h1 align="center">Saidmahmud Boboev 👋</h1>
 
 <p align="center">
-  <b>Backend Developer</b> &nbsp;•&nbsp; Dushanbe, Tajikistan 🇹🇯
+  <b>Backend Developer</b> &nbsp;•&nbsp; Dushanbe, Tajikistan
 </p>
 
 <p align="center">
