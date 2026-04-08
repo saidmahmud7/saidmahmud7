@@ -28,7 +28,7 @@
 ### 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,docker,git,html,css" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,docker,git,html,css,c++" />
 </p>
 
 ---
