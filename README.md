@@ -1,4 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Saidmahmud Boboev 👋</h1>
+
+<p align="center">
+  <b>Backend Developer</b> &nbsp;•&nbsp; Dushanbe, Tajikistan 🇹🇯
+</p>
+
+<p align="center">
+  <a href="https://github.com/saidmahmud7">
+    <img src="https://img.shields.io/github/followers/saidmahmud7?label=GitHub&style=social" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/boboev77">
+    <img src="https://img.shields.io/badge/Telegram-@boboev77-2CA5E0?style=flat&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About me
+
+- 🎓 3rd year student, building real web projects
+- 🔧 Focused on backend development with **.NET** and **C#**
+- 🌱 Always learning new technologies
+- 📍 Based in Dushanbe, Tajikistan
+
+---
+
+### 🛠 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,docker,git,html,css" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saidmahmud7&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidmahmud7&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+### 📫 Contact
+
+<p>
+  <a href="https://t.me/boboev77">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/saidmahmud7">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 <!--
 **saidmahmud7/saidmahmud7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
