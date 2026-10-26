@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About me
 
-- 🎓 3rd year student, building real web projects
+- 🎓 4rd year student, building real web projects
 - 🔧 Focused on backend development with **.NET** and **C#**
 - 🌱 Always learning new technologies
 - 📍 Based in Dushanbe, Tajikistan
